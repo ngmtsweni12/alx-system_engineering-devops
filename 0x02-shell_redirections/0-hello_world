@@ -1,2 +1,2 @@
 #!/bin/bash
-eecho -e \"\(\Ôo\)\'
+echo Hello, World
